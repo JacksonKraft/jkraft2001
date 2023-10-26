@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and design.
 - 🌱 I’m currently learning game development. Always learning game development.
 - 💞️ I’m looking to collaborate on projects, both personal and professional.
-- 📫 How to reach me: Check out my Twitter [@kraft_jackson](https://twitter.com/kraft_jackson)
+- 📫 How to reach me: Check out my [Twitter](https://twitter.com/kraft_jackson) or my [LinkedIn](https://www.linkedin.com/in/jackson-kraft/)
 - You can also check out my work [here](https://www.jkrafty.com/)
 
 <!---
